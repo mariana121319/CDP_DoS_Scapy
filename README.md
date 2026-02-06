@@ -99,7 +99,7 @@ Para detener el ataque:
 CTRL + C
 ```
 
-## 📄 Script: cdp_dos.py
+## 📄 Script: ScriptCDP.py
 
 ```python
 from scapy.all import Ether, LLC, SNAP, Raw, sendp, RandMAC
