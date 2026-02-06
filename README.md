@@ -27,8 +27,6 @@ Este ataque es útil para prácticas de seguridad en redes, pentesting interno y
 
 ## 🗺️ Topología de Red
 
-![Topología de Red](https://github.com/mariana121319/CDP_DoS_Scapy/assets/1/image1.png)
-
 ```
         Router (R1)
             |
@@ -90,7 +88,7 @@ pip install scapy
 ## ▶️ Uso del Script
 
 ```bash
-sudo python3 cdp_dos.py
+sudo python3 scriptCDP.py
 ```
 
 Para detener el ataque:
