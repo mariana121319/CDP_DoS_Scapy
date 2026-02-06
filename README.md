@@ -159,17 +159,21 @@ except KeyboardInterrupt:
 
 ## 📸 Evidencia del Ataque
 
+### Topologia
+<img width="477" height="453" alt="image" src="https://github.com/user-attachments/assets/e4264a49-f111-4afc-8ee6-8d8403ae25fd" />
+
 ### Comando CDP Neighbors
 
-![CDP Neighbors Command](https://github.com/mariana121319/CDP_DoS_Scapy/assets/2/image2.png)
+<img width="711" height="409" alt="image" src="https://github.com/user-attachments/assets/2cbc3b5a-d6f4-487b-ac7c-2e0c7e4467ae" />
 
 ### Resultado del Ataque
 
-![Resultado del Ataque CDP](https://github.com/mariana121319/CDP_DoS_Scapy/assets/3/image3.png)
+<img width="692" height="425" alt="image" src="https://github.com/user-attachments/assets/e079a7d6-7131-425d-b387-98633acc6436" />
 
 ### Ejecución del Script
 
-![Ejecución del Script](https://github.com/mariana121319/CDP_DoS_Scapy/assets/4/image4.png)
+<img width="439" height="278" alt="image" src="https://github.com/user-attachments/assets/1d89d4fd-57a6-4aba-8e08-26aff4f0bc12" />
+
 
 ## ✔️ Verificación
 
