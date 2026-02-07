@@ -164,6 +164,10 @@ except KeyboardInterrupt:
 
 <img width="711" height="409" alt="image" src="https://github.com/user-attachments/assets/2cbc3b5a-d6f4-487b-ac7c-2e0c7e4467ae" />
 
+### Antes del ataque 
+
+<img width="741" height="403" alt="image" src="https://github.com/user-attachments/assets/3d0bf368-73f3-45d8-b313-be2ec5a39ea3" />
+
 ### Resultado del Ataque
 
 <img width="692" height="425" alt="image" src="https://github.com/user-attachments/assets/e079a7d6-7131-425d-b387-98633acc6436" />
